@@ -1,0 +1,7 @@
+[
+  {"id": "1", "name": "Pizza Vegetaria", "price": 5 },
+  {"id": "2", "name": "Pizza Salami",    "price": 5.5 },
+  {"id": "3", "name": "Pizza Thunfisch", "price": 6 },
+  {"id": "4", "name": "Aktueller Flyer", "price": 0 },
+  {"id": "5", "name": "Aktuelle CD", "price": 0 }
+]

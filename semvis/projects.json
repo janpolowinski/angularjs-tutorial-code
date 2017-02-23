@@ -1,0 +1,197 @@
+[ {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "identity-mapping-test",
+	"jsonDirty" : true,
+	"name" : "identity-mapping-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "cit-collapsible-tree",
+	"jsonDirty" : false,
+	"name" : "cit-collapsible-tree",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "sub-mapping-test",
+	"jsonDirty" : true,
+	"name" : "sub-mapping-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "automatic-value-mapping-test",
+	"jsonDirty" : true,
+	"name" : "automatic-value-mapping-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "tbox-domain-range-test",
+	"jsonDirty" : true,
+	"name" : "tbox-domain-range-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "ro-4b",
+	"jsonDirty" : true,
+	"name" : "ro-4b",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "cit-5",
+	"jsonDirty" : true,
+	"name" : "cit-5",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "circle-packing-zoomable",
+	"id" : "po-9-containment",
+	"jsonDirty" : true,
+	"name" : "po-9-containment",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "cit-1",
+	"jsonDirty" : true,
+	"name" : "cit-1",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "filtering-test",
+	"jsonDirty" : true,
+	"name" : "filtering-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "rdf-id-test",
+	"jsonDirty" : true,
+	"name" : "rdf-id-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "linking-directed-test",
+	"jsonDirty" : true,
+	"name" : "linking-directed-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "rvl-example-data",
+	"jsonDirty" : true,
+	"name" : "rvl-example-data",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "labeling-test",
+	"jsonDirty" : true,
+	"name" : "labeling-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "rvl",
+	"jsonDirty" : true,
+	"name" : "rvl",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "zfa",
+	"jsonDirty" : true,
+	"name" : "zfa",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "ro-instances-social-network",
+	"jsonDirty" : true,
+	"name" : "ro-instances-social-network",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "po-8",
+	"jsonDirty" : true,
+	"name" : "po-8",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "po-9",
+	"jsonDirty" : true,
+	"name" : "po-9",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "area-test",
+	"jsonDirty" : true,
+	"name" : "area-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "ro-5",
+	"jsonDirty" : true,
+	"name" : "ro-5",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "ro-6",
+	"jsonDirty" : true,
+	"name" : "ro-6",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "linking-undirected-test",
+	"jsonDirty" : true,
+	"name" : "linking-undirected-test",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "aa-4",
+	"jsonDirty" : true,
+	"name" : "aa-4",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "tolkien",
+	"jsonDirty" : true,
+	"name" : "tolkien",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "collapsible-tree",
+	"id" : "po",
+	"jsonDirty" : true,
+	"name" : "po",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "force-directed-graph",
+	"id" : "aa-3",
+	"jsonDirty" : true,
+	"name" : "aa-3",
+	"publish" : true
+}, {
+	"avmJsonDirty" : true,
+	"defaultGraphicType" : "circle-packing-zoomable",
+	"id" : "containment-test",
+	"jsonDirty" : true,
+	"name" : "containment-test",
+	"publish" : true
+} ]

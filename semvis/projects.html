@@ -1,0 +1,35 @@
+<form>
+	<input type="text" ng-model="search">
+	<p ng-show="search">Du suchst gerade nach: {{search}}</p>
+</form>
+
+<div ng-controller="WorkspaceCtrl">
+
+	<div ng-show="workspace.getProject()!=null">
+		<form>
+			<textarea>{{workspace.getProject().id}}</textarea>
+		</form>
+		<div>
+			<span>ID: </span>{{workspace.getProject().id}}
+		</div>
+		<div>
+			<span>Name: </span>{{workspace.getProject().name}}
+		</div>
+	</div>
+</div>
+
+
+<table class="table" ng-controller="ProjectsCtrl">
+	<tr ng-repeat="project in projects | filter:search">
+		<td>{{project.id}}</td>
+		<td>{{project.name}}</td>
+		<td>{{project.defaultGraphicType}}</td>
+<!-- 		<td><price value="article.price" /></td> -->
+		<td><a href class="btn btn-default btn-sm" ng-click="workspace.loadProject(project);">Edit</a></td>
+	</tr>
+</table>
+
+
+
+
+
